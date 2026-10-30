@@ -23,7 +23,7 @@
 *   **Asynchronous Programming:** Kotlin Coroutines & Flow
 *   **Sensors:** Android `SensorManager`, Google Play Services Location API
 
-*   ---
+---
 
 ## API & Data Integration
 
