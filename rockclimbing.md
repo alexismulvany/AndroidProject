@@ -3,6 +3,10 @@
 ## Project Overview
 (Name TBD) is a mobile-first Android application designed specifically for rock climbers. It leverages Android's unique mobile capabilities to provide an infinite "doomscrolling" feed of climbing routes and utilizes hardware sensors (Accelerometer, Barometer, GPS) to track climbing sessions passively.
 
+**Category:** Fitness
+**Market:** Rock Climbers
+**Habit:** Scroll board climbs and save them to try out
+
 ## Core Requirements Addressed
 1. **Doomscrolling:** Infinite vertical scroll of climbing routes utilizing the Boardsesh/BoardLib SQLite databases.
 2. **Mobile Sensors:** 
