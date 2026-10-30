@@ -20,10 +20,12 @@ Planned stack:
 An infinite, mobile-first feed of climbing routes that helps climbers discover climbs, save routes to try, and passively track climbing sessions.
 
 *  **Category:** Fitness
-*  **Mobile:** Uses sensors to track height 
-*  **Market:** Rock climbers
-*  **Core habit:** Scroll through board climbs and save them for future sessions.
+*  **Mobile:** Uses pressure sensors and accelerometer to track height, camera to upload pictures and videos of the climbs, location to find nearby gyms.
+*  **Story:** Allows users to find new climbs to try, track climbing data, and locate nearby gyms.
 *  **Category:** Fitness
+*  **Market:** Rock climbers of any skill level.
+*  **Core habit:** Scroll through board climbs, save them for future sessions, and track your climbs.
+*  **Scope:** Future scope could allow users to find outdoor climbs and also post beta of climbs to a feed of friends.
 
 ## Key App Features
 
