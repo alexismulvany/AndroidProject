@@ -20,8 +20,10 @@ Planned stack:
 An infinite, mobile-first feed of climbing routes that helps climbers discover climbs, save routes to try, and passively track climbing sessions.
 
 *  **Category:** Fitness
+*  **Mobile:** Uses sensors to track height 
 *  **Market:** Rock climbers
 *  **Core habit:** Scroll through board climbs and save them for future sessions.
+*  **Category:** Fitness
 
 ## Key App Features
 
